@@ -58,4 +58,4 @@ Drone Workflow http://prezi.com/zid4g-89xllk/?utm_campaign=share&utm_medium=copy
 Intro to Drones in GIS http://prezi.com/qlzcb262xerc/?utm_campaign=share&utm_medium=copy&rc=ex0share
 
 
-Once again if you have any questions feel free to call me.
+Once again if you have any questions feel free to email me at wonsnot@gmail.com
