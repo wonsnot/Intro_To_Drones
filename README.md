@@ -1,7 +1,7 @@
 # Intro_To_Drones
 General info for getting started with drones
 
-This should give you an idea on how/where to start. I'll see about putting something like this together for your budget range, but the number and type of parts are going to be pretty similar. 
+This should give you an idea on how/where to start. I'll see about putting something like this together for the low budget range, but the number and type of parts are going to be pretty similar. 
 
 I would highly suggest you watch the Flite Test beginner series: https://www.youtube.com/playlist?list=PL6IuSFWz4ktvupu_gxw1vn-sjBGOkJFHV
 My training playlist: https://www.youtube.com/playlist?list=PLCuDv3oRKHKtHCKKNgwp105RSoMvR4Ag5
@@ -12,12 +12,11 @@ Any way you go, you are going to have to train yourself in some real world pilot
 The builder that I was talking about in the presentation was Experimental Airlines, and my most durable fixed wing was the Axon: https://youtu.be/-gFYDk5QFhQ
 There are some pros and cons to each. The Flite Test planes can be bought pre cut or your can just download the plans and cut them yourself, but the Experimental airlines designs use a common build technique so they are easy to repair and build without plans and even improvise if needed. 
 
-Let me know if you want to go with a semi pre built like what I specced out below or if you want to do the Experimental Airlines or Flite Test setup. It will highly effect my decision on the parts I suggest.
-
-I thought about it when we were talking about interference, and the Success In FPV playlist is all about RF and interference.
+Talking about interference, the Success In FPV(https://www.youtube.com/playlist?list=PLQfofxd5B8YWAmCMOf03_AGQfRlJJ_iTo) playlist is all about RF and interference.
 
 
 Watch ALL of the videos. They provide an excellent foundation.
+
 
 Airframe: http://www.stoneblueairlines.com/hangar/behemoth.html
 Motor: http://www.stoneblueairlines.com/hangar/motors-esc/motors/airplane-motors/cobra/cobra-motor-2826-8-kv-1144/cobra-motor-2826-8-kv-1130.html
@@ -48,8 +47,7 @@ Drone Deploy: the command and control software for the DJI Phantom
 Android: https://play.google.com/store/apps/details?id=com.dronedeploy.beta&hl=en
 IOS: https://itunes.apple.com/us/app/dronedeploy-fast-aerial-data/id971358101?mt=8
 
-The Processing software Agisoft Photoscan: http://www.agisoft.com/buy/online-store/educational-license/ The Standard version should be fine. ​​​
- intro-to-drones-in-gis-v2-qlzcb262xerc (1).zip​
+The Processing software Agisoft Photoscan: http://www.agisoft.com/buy/online-store/educational-license/ The Standard version should be fine.
 
 The cheaper of the drone/software packages that would do what you need: http://www.tuffwing.com/products/drone_mapper.html
 
