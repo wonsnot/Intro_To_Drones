@@ -40,6 +40,8 @@ FPV Goggles
      LCD: http://www.getfpv.com/7-lumenier-lcd-fpv-monitor-with-5-8ghz-32ch-diversity-rx-dvr-battery.html
 OSD: https://store.3drobotics.com/products/apm-minimosd-rev-1-1
 
+Included Spreadsheet for readability https://docs.google.com/spreadsheets/d/10goL9TEOIHEOq0tSk5ZdpZaojaN1RzcxOgkY4_daIdE/edit?usp=sharing
+
 Zip ties, gorilla glue, Scott Packing tape, Control Horns, Push Rods, Exacto Blades, Hot glue gun and glue,
 
 Drone Deploy: the command and control software for the DJI Phantom
