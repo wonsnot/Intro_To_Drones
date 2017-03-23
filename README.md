@@ -54,6 +54,8 @@ The cheaper of the drone/software packages that would do what you need: http://w
 FAA info on Part 107: https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=20516 The rules that you operate under as a commercial operation or an organization
 
 I have also included the slides to a presentation I gave earlier this year about drones in general and a sample workflow.
+Drone Workflow http://prezi.com/zid4g-89xllk/?utm_campaign=share&utm_medium=copy&rc=ex0share
+Intro to Drones in GIS http://prezi.com/qlzcb262xerc/?utm_campaign=share&utm_medium=copy&rc=ex0share
 
 
 Once again if you have any questions feel free to call me.
